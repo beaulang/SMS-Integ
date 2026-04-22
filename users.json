@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "fullname": "Gamel PLaza",
+            "phonenumber": "63BZQxI7g5SU4bcq4C\/nKQ==",
+            "username": "Gams",
+            "email": "Nr\/3tQK17T5a8tCW3HvEIGcxhYilKHokmasbgh\/5bBM=",
+            "password": "$2y$10$NgEVRhUld8hFl539Cw1ohuYWvUQm62YM\/NcNt1GYKBJT9ttCjcCR.",
+            "role": "admin",
+            "otp": "558447",
+            "otp_expiry": 1776224136
+        },
+        {
+            "fullname": "uGpyj8SfC+Oei8tElGeG6A==",
+            "phonenumber": "iIujUcSZ11+eLiFALtrhBg==",
+            "username": "beau",
+            "email": "1cAVmWc4MWq9oc4GwgL4frUwToYWnlijJezzNFjwmGQ=",
+            "password": "$2y$10$MpwwsfEPdatGHCw9m\/dUpuN.cT9lFSJE3L0pSkJ6aCNBr0IF40o16",
+            "role": "admin",
+            "registered": "2026-04-15 05:33:44",
+            "otp": "248676",
+            "otp_expiry": 1776660807
+        },
+        {
+            "fullname": "wV2qgSgz5s+O9Ts9Lm7gFti2C5yt0M9bYy7QoxKtkTI=",
+            "phonenumber": "iIujUcSZ11+eLiFALtrhBg==",
+            "username": "student1",
+            "email": "1cAVmWc4MWq9oc4GwgL4frUwToYWnlijJezzNFjwmGQ=",
+            "password": "$2y$10$D0\/yccXmxGBzZ9RzqlTEnOiDZvT49Tjh.\/g2xam1BoFf.B2Gju8AW",
+            "role": "student",
+            "status": "approved",
+            "registered": "2026-04-15 09:37:07",
+            "otp": "599291",
+            "otp_expiry": 1776239050
+        }
+    ]
+}

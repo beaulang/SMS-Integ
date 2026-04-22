@@ -1,0 +1,6 @@
+{
+    "university_name": "Lazarte University Portal",
+    "tagline": "Dream Big",
+    "otp_validity_minutes": 5,
+    "max_login_attempts": 5
+}
